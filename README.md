@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Patil</h1>
-<h3 align="center">Java Developer</h3>
+<h2 align="center">Java Developer</h2>
 <img align="right"alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpatil101&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpatil101" /> </p>
