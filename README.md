@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketpatil101&label=Profile%20views&color=0e75b6&style=flat" alt="aniketpatil101" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src=" - https://img.shields.io/badge/any_text-you_like-blue" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I am  **Java Full Stack Developer.**
 
-- 💬 Ask me about **Java Development**
+- 💬 Ask me about **Java Development.**
 
 - 📫 How to reach me **aniketpatil634@gmail.com**
 
